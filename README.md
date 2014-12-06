@@ -38,6 +38,7 @@ Sıcaklık(°C) | Orantısal Nem(Y) | Rüzgar Hızı (m/sn)
         8.61 |            90.00 |               0.96
 ```
 
+ 
  Teşekkürler
  ===========
 
